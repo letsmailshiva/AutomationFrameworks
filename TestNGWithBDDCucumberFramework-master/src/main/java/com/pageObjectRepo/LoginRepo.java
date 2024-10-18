@@ -13,6 +13,30 @@ public class LoginRepo {
 	@CacheLookup// this is use for webElement never change 
 	private WebElement txtEmail;
 	
+	@FindBy(xpath = "//input[@name='username']")
+	@CacheLookup// this is use for webElement never change 
+	private WebElement username;
+	
+	@FindBy(xpath = "//input[@name='password']")
+	@CacheLookup// this is use for webElement never change 
+	private WebElement password;
+	
+	@FindBy(xpath = "//button[@type='submit']")
+	@CacheLookup// this is use for webElement never change 
+	private WebElement clickOnSubmit;
+	
+	@FindBy(xpath = "//h6[text()='Dashboard']")
+	@CacheLookup// this is use for webElement never change 
+	private WebElement titleHomepage;
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	@FindBy(id = "Password")
 	@CacheLookup
 	private WebElement txtPassword;
@@ -43,6 +67,7 @@ public class LoginRepo {
 	public void setTxtPassword(WebElement txtPassword) {
 		this.txtPassword = txtPassword;
 	}
+	
 	
 	
 

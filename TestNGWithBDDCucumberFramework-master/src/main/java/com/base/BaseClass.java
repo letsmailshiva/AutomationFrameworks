@@ -25,7 +25,7 @@ public class BaseClass {
 	{
 		if(Util.readProperties("browser").equalsIgnoreCase("chrome"))
 		{
-		System.setProperty("webdriver.chrome.driver", "C:/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\letsm\\git\\ShivaLocalRepo\\TestNGWithBDDCucumberFramework-master\\src\\test\\resources\\drivers\\chromedriver.exe");
 		driver = new ChromeDriver();
 		
 		log.info("::::Maximizing Window::::");

@@ -649,3 +649,67 @@ nopCommerce version 4.60.0
 2023-02-06 14:55:31,987  INFO [main] BaseClass:18 - Scenario Executing Start :-Login Data Driven
 2023-02-06 14:55:36,104  INFO [main] BaseClass:38 - After login Title is  :- Your store. Login
 2023-02-06 14:55:36,326  INFO [main] BaseClass:30 - Scenario Executing Finish :-Login Data Driven
+2024-10-17 23:41:35,317  WARN [main] FileSystemFontProvider:607 - New fonts found, font cache will be re-built
+2024-10-17 23:41:35,320  WARN [main] FileSystemFontProvider:360 - Building on-disk font cache, this may take a while
+2024-10-17 23:41:36,100  WARN [main] FileSystemFontProvider:363 - Finished building on-disk font cache, found 487 fonts
+2024-10-18 00:25:00,860  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:25:01,132  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:25:01,155  INFO [main] BaseClass:18 - Scenario Executing Start :-Add new Customer
+2024-10-18 00:25:06,164  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:25:06,415  INFO [main] BaseClass:30 - Scenario Executing Finish :-Add new Customer
+2024-10-18 00:25:06,416  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:25:06,548  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:25:07,486  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:25:07,550  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:25:07,569  INFO [main] BaseClass:18 - Scenario Executing Start :-Successful Login with Valid Credentials
+2024-10-18 00:25:12,239  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:25:12,411  INFO [main] BaseClass:30 - Scenario Executing Finish :-Successful Login with Valid Credentials
+2024-10-18 00:25:12,411  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:25:12,550  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:25:13,638  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:25:13,697  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:25:13,714  INFO [main] BaseClass:18 - Scenario Executing Start :-Login Data Driven
+2024-10-18 00:25:19,203  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:25:19,473  INFO [main] BaseClass:30 - Scenario Executing Finish :-Login Data Driven
+2024-10-18 00:25:19,474  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:25:19,627  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:25:20,719  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:25:20,783  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:25:20,797  INFO [main] BaseClass:18 - Scenario Executing Start :-Login Data Driven
+2024-10-18 00:25:25,223  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:25:25,521  INFO [main] BaseClass:30 - Scenario Executing Finish :-Login Data Driven
+2024-10-18 00:25:25,521  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:25:25,656  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:26:42,414  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:26:42,471  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:26:42,487  INFO [main] BaseClass:18 - Scenario Executing Start :-Successful Login with Valid Credentials
+2024-10-18 00:26:48,020  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:26:48,338  INFO [main] BaseClass:30 - Scenario Executing Finish :-Successful Login with Valid Credentials
+2024-10-18 00:26:48,339  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:26:48,475  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:26:49,410  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:26:49,482  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:26:49,498  INFO [main] BaseClass:18 - Scenario Executing Start :-Login Data Driven
+2024-10-18 00:26:54,340  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:26:54,559  INFO [main] BaseClass:30 - Scenario Executing Finish :-Login Data Driven
+2024-10-18 00:26:54,560  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:26:54,688  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:26:55,596  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:26:55,652  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:26:55,663  INFO [main] BaseClass:18 - Scenario Executing Start :-Login Data Driven
+2024-10-18 00:27:00,399  INFO [main] BaseClass:39 - After login Title is  :- Just a moment...
+2024-10-18 00:27:00,588  INFO [main] BaseClass:30 - Scenario Executing Finish :-Login Data Driven
+2024-10-18 00:27:00,588  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:27:00,744  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:46:25,011  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:46:25,065  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:46:25,087  INFO [main] BaseClass:18 - Scenario Executing Start :-Successful Login with Valid Credentials
+2024-10-18 00:46:30,297  INFO [main] BaseClass:30 - Scenario Executing Finish :-Successful Login with Valid Credentials
+2024-10-18 00:46:30,297  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:46:30,468  INFO [main] BaseClass:77 - ::::All Browser is quit::::
+2024-10-18 00:54:10,114  INFO [main] BaseClass:31 - ::::Maximizing Window::::
+2024-10-18 00:54:10,162  INFO [main] BaseClass:36 - :::::Applying Waits::::
+2024-10-18 00:54:10,180  INFO [main] BaseClass:18 - Scenario Executing Start :-Successful Login with Valid Credentials
+2024-10-18 00:54:30,927  INFO [main] BaseClass:30 - Scenario Executing Finish :-Successful Login with Valid Credentials
+2024-10-18 00:54:30,928  INFO [main] BaseClass:73 - ::::Active Browser is close::::
+2024-10-18 00:54:31,006  INFO [main] BaseClass:77 - ::::All Browser is quit::::

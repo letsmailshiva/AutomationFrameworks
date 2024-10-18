@@ -27,6 +27,7 @@ public class LoginPage extends LoginRepo {
 	
 	CustomizeMethod method= new CustomizeMethod(BaseClass.webDriver.get());
 	
+	
 	//Utilization of webElement
 	
 	public void setUserName(String uname)
@@ -56,4 +57,7 @@ public class LoginPage extends LoginRepo {
 		
 	}
 
+	public void enterUserName() {
+		
+	}
 }

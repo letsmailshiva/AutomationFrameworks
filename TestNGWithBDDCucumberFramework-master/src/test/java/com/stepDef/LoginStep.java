@@ -25,6 +25,13 @@ public class LoginStep extends BaseClass {
 	    lp.setUserName(uname);
 	    lp.setUserPassword(pass);
 	}
+	
+	@When("User enters Username as {string}  and Password as {string}")
+	public void user_enters_username_as_and_password_as(String string, String string2) {
+	    
+	}
+	
+	
 
 	@When("Click on Login")
 	public void click_on_login() {
